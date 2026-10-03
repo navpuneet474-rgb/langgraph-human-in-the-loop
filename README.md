@@ -65,8 +65,6 @@ This creates a simple but realistic **AI → Human → AI** workflow.
                                            AI Response
 ```
 
-````
-
 ---
 
 ## 🛠️ Tech Stack
@@ -203,7 +201,7 @@ Create a `.env` file based on `.env.example`:
 GROQ_API_KEY=your_groq_api_key
 ```
 
-Do not commit the `.env` file to GitHub.
+**Do not commit the `.env` file to GitHub.**
 
 ---
 
@@ -290,6 +288,7 @@ Graph state saved
 
 ```text
 Resolution>
+
 Please send your troubleshooting details to our support team.
 ```
 
@@ -358,8 +357,3 @@ is implemented and working locally.
 B.Tech Computer Science
 
 Interested in **Software Engineering, AI Engineering, Generative AI, and backend systems**.
-
-```
-
-```
-````
